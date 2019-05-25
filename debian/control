@@ -5,7 +5,9 @@ Build-Depends: debhelper (>=11),
  dh-python,
  python3-all,
  gobject-introspection,
- python3-distutils-extra
+ python3-distutils-extra,
+ yarn,
+ nodejs
 Maintainer: David Mohammed <fossfreedom@ubuntu.com>
 Homepage: https://ulauncher.io
 Standards-Version: 4.3.0
